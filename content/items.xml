@@ -1,0 +1,8 @@
+<items gfxroot="gfx/items/" version="1">
+	<active id="1" description="Feeding Frenzy!" gfx="bookOfMischief.png" maxcharges="4" name="Book of Mischief" tags="book"/>
+	<passive id="2" name="Haircut" gfx="Haircut.png" description="Tears up + Lookin' Good" cache="firedelay"/>
+	<passive id="3" name="Pack Rat" gfx="packRat.png" description="More! More! More!"/> 
+	<passive id="4" name="Strange Snacks" gfx="strangeSnack.png" description="Tastes funny + Spawn killer" blackhearts="2"/>
+	<passive id="5" name="Burrow Buster Bombs" gfx="burrowBuster.png" description="Rocks-B-Gone" bombs="5"/>
+
+</items>

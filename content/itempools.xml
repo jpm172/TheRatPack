@@ -1,0 +1,28 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Book of Mischief" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name ="Haircut" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Burrow Buster Bombs" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Pack Rat" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="boss">
+		<Item Name ="Haircut" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="library">
+		<Item Name="Book of Mischief" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	
+	<Pool Name="shop">
+		<Item Name ="Haircut" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Burrow Buster Bombs" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	
+	<Pool Name="bombBum">
+		<Item Name="Burrow Buster Bombs" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	
+	<Pool Name="goldenChest">
+		<Item Name="Pack Rat" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+</ItemPools>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df748b5a-0acf-4987-b416-e5e45604e9cc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../entities/monsters/infestedRat.lua" />
+        <option value="$PROJECT_DIR$/../trinkets/coinOnAString.lua" />
+        <option value="$PROJECT_DIR$/../entities/ratClaws.lua" />
+        <option value="$PROJECT_DIR$/strangeSnacks.lua" />
+        <option value="$PROJECT_DIR$/clawedBook.lua" />
+        <option value="$PROJECT_DIR$/burrowBuster.lua" />
+        <option value="$PROJECT_DIR$/../entities/monsters/rat.lua" />
+        <option value="$PROJECT_DIR$/haircut2.lua" />
+        <option value="$PROJECT_DIR$/../utils.lua" />
+        <option value="$PROJECT_DIR$/../../main.lua" />
+        <option value="$PROJECT_DIR$/packRatOld.lua" />
+        <option value="$PROJECT_DIR$/../entities/monsters/healerFly.lua" />
+        <option value="$PROJECT_DIR$/packRat.lua" />
+        <option value="$PROJECT_DIR$/haircut.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vsJuYMrLx7s4rVNYpSYRJh3fKN" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df748b5a-0acf-4987-b416-e5e45604e9cc" name="Default Changelist" comment="" />
+      <created>1627345086665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627345086665</updated>
+      <workItem from="1627345090602" duration="11859000" />
+      <workItem from="1627493038215" duration="12711000" />
+      <workItem from="1628120481631" duration="5787000" />
+      <workItem from="1628196965500" duration="653000" />
+      <workItem from="1628445518728" duration="29270000" />
+      <workItem from="1628742918275" duration="484000" />
+      <workItem from="1628830259362" duration="4481000" />
+      <workItem from="1628872891298" duration="23887000" />
+      <workItem from="1628910407409" duration="12235000" />
+      <workItem from="1628971475158" duration="1408000" />
+      <workItem from="1628973816183" duration="2895000" />
+      <workItem from="1628976994455" duration="4208000" />
+      <workItem from="1629004433229" duration="9103000" />
+      <workItem from="1629225333411" duration="2715000" />
+      <workItem from="1629263324821" duration="31321000" />
+      <workItem from="1629390459548" duration="3249000" />
+      <workItem from="1630168884134" duration="27130000" />
+      <workItem from="1630531834793" duration="5423000" />
+      <workItem from="1630539227202" duration="7000" />
+      <workItem from="1648402756119" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="run.anything.popup" />
+    <state x="425" y="187" key="run.anything.popup/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

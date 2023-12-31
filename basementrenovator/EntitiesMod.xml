@@ -1,0 +1,5 @@
+<data>
+	<entity BaseHP="6.5" Group="Enemies" ID="846" Image="ratPack/ratEnemy.png" Kind="Rat Pack" Name="Rat" Subtype="0" Variant="0" />
+	<entity BaseHP="5" Group="Enemies" ID="848" Image="ratPack/healerFly.png" Kind="Rat Pack" Name="Healer Fly" Subtype="0" Variant="0" />
+</data>
+	

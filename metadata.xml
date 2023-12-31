@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Rat Pack</name>
+    <directory>rat pack</directory>
+    <id>2583010891</id>
+    <description>Adds:
+2 new enemies
+4 new items
+60+ rooms
++more to come!
+
+-Coop friendly
+-Supports External item descriptions
+
+[h1]Enemies[/h1]
+[list]
+[*][b]The Rat[/b]: weak but clever creatures that will tunnel through obstacles to catch Isaac by surprise
+[*] [b]Healer Fly[/b]: Passive enemy that will use poops in the room to heal injured monsters
+[/list]
+
+[h1]Items[/h1]
+[list]
+[*][b]Haircut[/b]: +.5 tears up and Isaac's new haircut will fear any enemies that touch it
+
+[*] [b]Book of Mischief[/b]: 4 charge active item that spawns a swarm of friendly rats to fight assist Isaac for the duration of the room
+
+[*] [b]Strange Snacks[/b]: +1 black heart and monsters spawned by other monsters (ie Portal, baby long legs, etc...) will be poisoned
+
+[*] [b]Burrow Buster Bombs[/b]: Isaac's bombs that blow up rocks will cause a domino effect of explosions in the connected rocks 
+
+[*] [b]Pack Rat[/b]: Isaac gains a trash friend for every 7 coins, keys, or bombs he has (Up to 30 friends). If Isaac has the Box item, it only costs 4 coins, keys, or bombs
+-Garbage Friend: Blocks projectiles and releases slowing creep
+-Box Friend: Shoots projectiles in random directions
+-Spiky Friend: Attacks any monsters that walk near
+
+[/list]
+
+</description>
+    <version>1.13</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Rooms"/>
+    <tag id="Enemies"/>
+</metadata>
